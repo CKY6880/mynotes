@@ -1,5 +1,7 @@
 [
   "calendar",
   "obsidian-git",
-  "obsidian-hover-editor"
+  "obsidian-hover-editor",
+  "templater-obsidian",
+  "obsidian42-text-transporter"
 ]
