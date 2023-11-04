@@ -1,1 +1,10 @@
-{}
+{
+  "editor:attach-file": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "1"
+    }
+  ]
+}
