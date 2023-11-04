@@ -135,7 +135,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -151,7 +152,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "3f14d64932cc893f",
+  "active": "aea7c1fdbae7d9f9",
   "lastOpenFiles": [
     "未命名.md",
     "未命名"
