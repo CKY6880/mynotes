@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "6ea6b5d11e0cd6ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "書本筆記模板.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "書本筆記模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "書本筆記模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "書本筆記模板.md"
+              }
             }
           },
           {
@@ -170,9 +187,9 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "aea7c1fdbae7d9f9",
+  "active": "6ea6b5d11e0cd6ff",
   "lastOpenFiles": [
-    "未命名.md",
+    "書本筆記模板.md",
     "未命名"
   ]
 }
