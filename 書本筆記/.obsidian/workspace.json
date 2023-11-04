@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b4ed748ab1e9def",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零錯誤決策.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -199,11 +211,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "67a4cd2643ed9931",
+  "active": "9b4ed748ab1e9def",
   "lastOpenFiles": [
     "書本筆記模板.md",
     "零錯誤決策.md",
-    "未命名",
-    "2023-11-04.md"
+    "2023-11-04.md",
+    "未命名.md",
+    "未命名"
   ]
 }
