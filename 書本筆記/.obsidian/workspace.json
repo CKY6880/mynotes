@@ -134,9 +134,25 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "c5dc18bf38e2b0bc",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "e9eee01cf5a20e47",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -149,10 +165,13 @@
       "graph:查看關聯圖": false,
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
-      "command-palette:開啟命令面板": false
+      "command-palette:開啟命令面板": false,
+      "templater-obsidian:Templater": false,
+      "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "aea7c1fdbae7d9f9",
+  "active": "e9eee01cf5a20e47",
   "lastOpenFiles": [
     "未命名.md",
     "未命名"

@@ -3,5 +3,7 @@
   "obsidian-git",
   "obsidian-hover-editor",
   "templater-obsidian",
-  "obsidian42-text-transporter"
+  "obsidian42-text-transporter",
+  "note-refactor-obsidian",
+  "breadcrumbs"
 ]
