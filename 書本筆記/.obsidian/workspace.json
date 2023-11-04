@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Metadata",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,7 +187,7 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "6ea6b5d11e0cd6ff",
+  "active": "3f14d64932cc893f",
   "lastOpenFiles": [
     "書本筆記模板.md",
     "未命名"
