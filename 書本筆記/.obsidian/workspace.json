@@ -78,6 +78,21 @@
         "type": "tabs",
         "children": [
           {
+            "id": "3f14d64932cc893f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "f561db8e64e69b08",
             "type": "leaf",
             "state": {
@@ -105,38 +120,22 @@
             }
           },
           {
-            "id": "96ef4647ddfda0bf",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "3f14d64932cc893f",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "8f133385abc16147",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "cdd448253a6ddd85",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,7 +151,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "c154e685138690c5",
+  "active": "3f14d64932cc893f",
   "lastOpenFiles": [
     "未命名.md",
     "未命名"
