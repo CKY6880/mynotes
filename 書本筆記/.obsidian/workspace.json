@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@心智表徵.md",
+                "file": "書本筆記/刻意練習.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@心智表徵.md",
+                "file": "書本筆記/刻意練習.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@心智表徵.md",
+                "file": "書本筆記/刻意練習.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@心智表徵.md"
+                "file": "書本筆記/刻意練習.md"
               }
             }
           },
@@ -225,6 +225,7 @@
   },
   "active": "0346bf9082276aee",
   "lastOpenFiles": [
+    "心智表徵.md",
     "心態表徵.md",
     "書本筆記/刻意練習.md",
     "@心智表徵.md",
