@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aa39e08b1e31c3a6",
+        "id": "089d2da773763ff1",
         "type": "tabs",
         "children": [
           {
-            "id": "0346bf9082276aee",
+            "id": "d54c361309f7a49b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -121,7 +121,7 @@
               "state": {
                 "file": "書本筆記/第五項修練.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -179,15 +179,16 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "9c979e63616da1ff",
+  "active": "d54c361309f7a49b",
   "lastOpenFiles": [
-    "彼此開誠佈公探討問題的技巧.md",
-    "書本筆記/第五項修練.md",
+    "書本筆記/零錯誤決策.md",
     "模板/書本筆記模板.md",
+    "心智表徵 心智模式.md",
+    "@漢斯.柯林斯.md",
+    "書本筆記/第五項修練.md",
+    "彼此開誠佈公探討問題的技巧.md",
     "書本筆記/刻意練習.md",
     "書本筆記/真確-看見真實的世界.md",
-    "書本筆記/零錯誤決策.md",
-    "心智表徵.md",
     "企業管理.md",
     "心態表徵.md",
     "@心智表徵.md",
