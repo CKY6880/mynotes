@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "書本筆記/刻意練習.md",
+                "file": "書本筆記/第五項修練.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "書本筆記/刻意練習.md",
+                "file": "書本筆記/第五項修練.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "書本筆記/刻意練習.md",
+                "file": "書本筆記/第五項修練.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "書本筆記/刻意練習.md"
+                "file": "書本筆記/第五項修練.md"
               }
             }
           },
@@ -159,7 +159,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,11 +181,11 @@
   },
   "active": "0346bf9082276aee",
   "lastOpenFiles": [
-    "心智表徵.md",
     "書本筆記/真確-看見真實的世界.md",
-    "書本筆記/零錯誤決策.md",
-    "書本筆記/第五項修練.md",
     "書本筆記/刻意練習.md",
+    "書本筆記/第五項修練.md",
+    "心智表徵.md",
+    "書本筆記/零錯誤決策.md",
     "模板/書本筆記模板.md",
     "企業管理.md",
     "心態表徵.md",
