@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "089d2da773763ff1",
+        "id": "9716bd3529052072",
         "type": "tabs",
         "children": [
           {
-            "id": "d54c361309f7a49b",
+            "id": "e9ad6defa24e468a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "書本筆記/第五項修練.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -102,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "書本筆記/第五項修練.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "書本筆記/第五項修練.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "書本筆記/第五項修練.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,13 +171,14 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "d54c361309f7a49b",
+  "active": "e9ad6defa24e468a",
   "lastOpenFiles": [
+    "書本筆記/第五項修練.md",
+    "探詢與辯護.md",
+    "心智表徵.md",
     "書本筆記/零錯誤決策.md",
     "模板/書本筆記模板.md",
-    "心智表徵 心智模式.md",
     "@漢斯.柯林斯.md",
-    "書本筆記/第五項修練.md",
     "彼此開誠佈公探討問題的技巧.md",
     "書本筆記/刻意練習.md",
     "書本筆記/真確-看見真實的世界.md",
