@@ -120,8 +120,8 @@
               "type": "outgoing-link",
               "state": {
                 "file": "書本筆記/第五項修練.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -159,7 +159,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -178,12 +179,13 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "0346bf9082276aee",
+  "active": "9c979e63616da1ff",
   "lastOpenFiles": [
+    "彼此開誠佈公探討問題的技巧.md",
+    "書本筆記/第五項修練.md",
     "模板/書本筆記模板.md",
     "書本筆記/刻意練習.md",
     "書本筆記/真確-看見真實的世界.md",
-    "書本筆記/第五項修練.md",
     "書本筆記/零錯誤決策.md",
     "心智表徵.md",
     "企業管理.md",
