@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "書本筆記/第五項修練.md",
+                "file": "心智表徵.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,14 +102,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "書本筆記/第五項修練.md",
+                "file": "心智表徵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -119,8 +119,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "書本筆記/第五項修練.md",
-                "linksCollapsed": true,
+                "file": "心智表徵.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "書本筆記/第五項修練.md"
+                "file": "心智表徵.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,12 +179,13 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "e9ad6defa24e468a",
+  "active": "f561db8e64e69b08",
   "lastOpenFiles": [
-    "探詢與辯護.md",
     "書本筆記/第五項修練.md",
-    "書本筆記/刻意練習.md",
+    "深度匯談的基本規則.md",
+    "探詢與辯護.md",
     "心智表徵.md",
+    "書本筆記/刻意練習.md",
     "書本筆記/零錯誤決策.md",
     "模板/書本筆記模板.md",
     "@漢斯.柯林斯.md",
