@@ -11,8 +11,12 @@
             "id": "e9ad6defa24e468a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "書本筆記/第五項修練.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -98,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "書本筆記/第五項修練.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "書本筆記/第五項修練.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "書本筆記/第五項修練.md"
+              }
             }
           },
           {
@@ -173,6 +181,7 @@
   },
   "active": "e9ad6defa24e468a",
   "lastOpenFiles": [
+    "書本筆記/刻意練習.md",
     "書本筆記/第五項修練.md",
     "探詢與辯護.md",
     "心智表徵.md",
@@ -180,7 +189,6 @@
     "模板/書本筆記模板.md",
     "@漢斯.柯林斯.md",
     "彼此開誠佈公探討問題的技巧.md",
-    "書本筆記/刻意練習.md",
     "書本筆記/真確-看見真實的世界.md",
     "企業管理.md",
     "心態表徵.md",
