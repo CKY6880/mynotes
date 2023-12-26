@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "書本筆記/原則.md",
+                "file": "書本筆記/刻意練習.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "書本筆記/原則.md",
+                "file": "書本筆記/刻意練習.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "書本筆記/原則.md",
+                "file": "書本筆記/刻意練習.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "書本筆記/原則.md"
+                "file": "書本筆記/刻意練習.md"
               }
             }
           },
@@ -181,12 +181,12 @@
   },
   "active": "a0550ba118bd9915",
   "lastOpenFiles": [
-    "模板/書本筆記模板.md",
     "書本筆記/原則.md",
     "書本筆記/真確-看見真實的世界.md",
+    "書本筆記/刻意練習.md",
+    "模板/書本筆記模板.md",
     "書本筆記/第五項修練.md",
     "書本筆記/零錯誤決策.md",
-    "書本筆記/刻意練習.md",
     "2023-11-04.md",
     "未命名.md",
     "心智表徵.md",
