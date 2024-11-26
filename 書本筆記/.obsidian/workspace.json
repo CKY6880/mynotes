@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c567f8cab4bd4c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "模板/書本筆記模板.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b517a8570e14066",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "書本筆記/第五項修練.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "書本筆記/90%攸關性命的醫學常識沒有人教.md",
+                "file": "書本筆記/第五項修練.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "書本筆記/90%攸關性命的醫學常識沒有人教.md",
+                "file": "書本筆記/第五項修練.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "書本筆記/90%攸關性命的醫學常識沒有人教.md"
+                "file": "書本筆記/第五項修練.md"
               }
             }
           },
@@ -179,19 +204,21 @@
       "obsidian42-text-transporter:Obsidian42 - Text Transporter": false
     }
   },
-  "active": "01f97431f699851e",
+  "active": "0b517a8570e14066",
   "lastOpenFiles": [
-    "書本筆記/刻意練習.md",
-    "書本筆記/90%攸關性命的醫學常識沒有人教.md",
+    "探詢與辯護.md",
+    "海上實習.md",
+    "模板/書本筆記模板.md",
+    "模板/書本筆記模板 1.md",
     "書本筆記/原則.md",
+    "書本筆記/90%攸關性命的醫學常識沒有人教.md",
+    "書本筆記/刻意練習.md",
     "未命名",
     "書本筆記/真確-看見真實的世界.md",
     "書本筆記/第五項修練.md",
     "創造性張力.md",
     "心智表徵.md",
     "書本筆記/零錯誤決策.md",
-    "探詢與辯護.md",
-    "模板/書本筆記模板.md",
     "2023-11-04.md",
     "心智模式.md",
     "深度匯談的基本規則.md",
