@@ -8,43 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01f97431f699851e",
+            "id": "4c2ac56bb3ac859e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "書本筆記/90%攸關性命的醫學常識沒有人教.md",
+                "file": "探詢與辯護.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "1c567f8cab4bd4c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "模板/書本筆記模板.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b517a8570e14066",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "書本筆記/第五項修練.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "探詢與辯護"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
             }
           },
           {
@@ -72,7 +52,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
             }
           }
         ]
@@ -88,8 +70,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
             }
           }
         ]
@@ -118,7 +104,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
             }
           },
           {
@@ -127,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "書本筆記/第五項修練.md",
+                "file": "探詢與辯護.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +123,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "探詢與辯護 的反向連結"
             }
           },
           {
@@ -144,10 +134,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "書本筆記/第五項修練.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "對外連結"
             }
           },
           {
@@ -155,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -164,28 +157,56 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "書本筆記/第五項修練.md"
-              }
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大綱"
             }
           },
           {
             "id": "d0bf3383a434ccad",
             "type": "leaf",
             "state": {
-              "type": "BC-matrix",
-              "state": {}
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
             }
           },
           {
             "id": "53b2376e9d5dfb5c",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
+            }
+          },
+          {
+            "id": "a128ae209c3193a2",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {},
+              "icon": "BC-trail-icon",
+              "title": "Breadcrumbs Matrix"
+            }
+          },
+          {
+            "id": "1a9f9bfd1b13528e",
+            "type": "leaf",
+            "state": {
               "type": "BC-tree",
-              "state": {}
+              "state": {},
+              "icon": "feather-corner-right-down",
+              "title": "Breadcrumbs Down"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -193,6 +214,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:建立新的 base": false,
       "switcher:開啟快速切換": false,
       "canvas:建立新畫布": false,
       "graph:查看關聯圖": false,
@@ -204,20 +226,21 @@
       "obsidian42-text-transporter:Obsidian42 - Text Transporter": false
     }
   },
-  "active": "0b517a8570e14066",
+  "active": "4c2ac56bb3ac859e",
   "lastOpenFiles": [
-    "海上實習.md",
-    "書本筆記/第五項修練.md",
+    "創造性張力.md",
+    "未命名.base",
+    "未命名",
     "探詢與辯護.md",
+    "心智表徵.md",
+    "書本筆記/90%攸關性命的醫學常識沒有人教.md",
     "模板/書本筆記模板.md",
+    "書本筆記/第五項修練.md",
+    "海上實習.md",
     "模板/書本筆記模板 1.md",
     "書本筆記/原則.md",
-    "書本筆記/90%攸關性命的醫學常識沒有人教.md",
     "書本筆記/刻意練習.md",
-    "未命名",
     "書本筆記/真確-看見真實的世界.md",
-    "創造性張力.md",
-    "心智表徵.md",
     "書本筆記/零錯誤決策.md",
     "2023-11-04.md",
     "心智模式.md",
