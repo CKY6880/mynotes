@@ -11,13 +11,14 @@
             "id": "001c7f1dc846cc74",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名 3.base",
-                "viewName": "表格"
+                "file": "書本筆記/90%攸關性命的醫學常識沒有人教.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名 3"
+              "icon": "lucide-file",
+              "title": "90%攸關性命的醫學常識沒有人教"
             }
           }
         ]
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 3.base",
+                "file": "書本筆記/90%攸關性命的醫學常識沒有人教.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "未命名 3 的反向連結"
+              "title": "90%攸關性命的醫學常識沒有人教 的反向連結"
             }
           },
           {
