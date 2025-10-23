@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "海上實習.md",
+                "file": "書本筆記/第五項修練.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "海上實習.md",
+                "file": "書本筆記/第五項修練.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "海上實習.md",
+                "file": "書本筆記/第五項修練.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "海上實習.md"
+                "file": "書本筆記/第五項修練.md"
               }
             }
           },
@@ -206,9 +206,9 @@
   },
   "active": "0b517a8570e14066",
   "lastOpenFiles": [
+    "海上實習.md",
     "書本筆記/第五項修練.md",
     "探詢與辯護.md",
-    "海上實習.md",
     "模板/書本筆記模板.md",
     "模板/書本筆記模板 1.md",
     "書本筆記/原則.md",
