@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8f19cee0bd5cc122",
+        "id": "42b70d76721b44b2",
         "type": "tabs",
         "children": [
           {
-            "id": "4c2ac56bb3ac859e",
+            "id": "e487b358df26a495",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "探詢與辯護.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "探詢與辯護"
+              "title": "新分頁"
             }
           }
         ]
@@ -82,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c0a5328044acfa7f",
@@ -115,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "探詢與辯護.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +121,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "探詢與辯護 的反向連結"
+              "title": "反向連結"
             }
           },
           {
@@ -226,12 +222,12 @@
       "obsidian42-text-transporter:Obsidian42 - Text Transporter": false
     }
   },
-  "active": "4c2ac56bb3ac859e",
+  "active": "e487b358df26a495",
   "lastOpenFiles": [
+    "探詢與辯護.md",
     "創造性張力.md",
     "未命名.base",
     "未命名",
-    "探詢與辯護.md",
     "心智表徵.md",
     "書本筆記/90%攸關性命的醫學常識沒有人教.md",
     "模板/書本筆記模板.md",
