@@ -4,17 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "42b70d76721b44b2",
+        "id": "3aee4c48599a0954",
         "type": "tabs",
         "children": [
           {
-            "id": "e487b358df26a495",
+            "id": "001c7f1dc846cc74",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新分頁"
+              "type": "bases",
+              "state": {
+                "file": "未命名 3.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "未命名 3"
             }
           }
         ]
@@ -78,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c0a5328044acfa7f",
@@ -112,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未命名 3.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +124,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "反向連結"
+              "title": "未命名 3 的反向連結"
             }
           },
           {
@@ -222,8 +225,12 @@
       "obsidian42-text-transporter:Obsidian42 - Text Transporter": false
     }
   },
-  "active": "e487b358df26a495",
+  "active": "001c7f1dc846cc74",
   "lastOpenFiles": [
+    "未命名 3.base",
+    "未命名 2.base",
+    "未命名.canvas",
+    "未命名 1.base",
     "探詢與辯護.md",
     "創造性張力.md",
     "未命名.base",
